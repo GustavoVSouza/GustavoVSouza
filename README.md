@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gusta!👋
 
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/GustavoVSouza">
